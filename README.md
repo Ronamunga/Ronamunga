@@ -1,5 +1,12 @@
-## Hi there 👋
-
+## Hi there 👋, Im Ronald Munga
+I’m a student at Strathmore University, passionate about technology and software development.
+ I have experience working with:
+HTML & JavaScript (web development)
+Python
+C++
+Java
+SQL
+ I enjoy learning new technologies, building projects, and improving my problem-solving skills through code.
 <!--
 **Ronamunga/Ronamunga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

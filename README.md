@@ -92,13 +92,6 @@ I turn **ideas → working systems → scalable solutions**.
 
 ---
 
-## 🧠 Recent Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=1234manucho&bg_color=0B1F3A&color=FFD700&line=FFD700&point=FFFFFF&hide_border=true"/>
-
-</div>
 
 ---
 

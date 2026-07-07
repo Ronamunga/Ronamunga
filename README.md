@@ -73,13 +73,6 @@ I turn **ideas → working systems → scalable solutions**.
 
 ---
 
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=1234manucho&fire=FFD700&ring=FFD700&currStreakLabel=FFD700&hide_border=true"/>
-
-</div>
 
 ---
 

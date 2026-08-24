@@ -126,7 +126,7 @@ I turn **ideas → working systems → scalable solutions**.
 
 <div align="center">
 
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/onecocktail544@gmail.com)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/liloodhiambo@gmail.com)
 
 </div>
 
